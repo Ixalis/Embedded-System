@@ -1,0 +1,7 @@
+../Core/Src/system.c:40:6:sensor_diplay	12
+../Core/Src/system.c:102:6:LCD_show_time	3
+../Core/Src/system.c:127:6:LCD_show_sensor	2
+../Core/Src/system.c:156:6:uart_test	2
+../Core/Src/system.c:197:6:drawGraph	3
+../Core/Src/system.c:223:6:updateGraph	3
+../Core/Src/system.c:243:6:system_loop	3
