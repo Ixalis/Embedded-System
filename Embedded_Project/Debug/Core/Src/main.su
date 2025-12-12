@@ -1,0 +1,12 @@
+main.c:29:6:LCD_EnablePulse	8	static
+main.c:36:6:LCD_Send4Bit	16	static
+main.c:44:6:LCD_SendCommand	16	static
+main.c:50:6:LCD_SendData	16	static
+main.c:56:6:LCD_Init	8	static
+main.c:65:6:LCD_SetCursor	16	static
+main.c:69:6:LCD_WriteString	16	static
+main.c:74:10:Read_ADC_Channel	32	static
+main.c:93:5:main	56	static
+main.c:167:6:SystemClock_Config	88	static
+main.c:191:13:MX_ADC1_Init	24	static
+main.c:202:13:MX_GPIO_Init	40	static
