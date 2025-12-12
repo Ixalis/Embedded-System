@@ -1,9 +1,0 @@
-../Core/Src/display_screen.c:32:6:random_kudamono	2
-../Core/Src/display_screen.c:42:6:init_screen	3
-../Core/Src/display_screen.c:65:6:Fat_fill	1
-../Core/Src/display_screen.c:69:6:screen_display	5
-../Core/Src/display_screen.c:85:9:run_snake	17
-../Core/Src/display_screen.c:129:6:update_head	5
-../Core/Src/display_screen.c:152:6:update_tail	5
-../Core/Src/display_screen.c:174:6:update_snake	3
-../Core/Src/display_screen.c:187:6:touchProcess	13
